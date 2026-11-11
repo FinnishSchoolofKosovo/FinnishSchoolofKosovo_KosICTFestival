@@ -2,3 +2,5 @@
 
 ### FinnishSchoolofKosovo_KosICTFestival
 ###### homeworkII
+
+ICT**is**bold
